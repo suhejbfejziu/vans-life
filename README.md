@@ -8,6 +8,10 @@ Vans Life provides a robust database powered by Firebase, ensuring that users ha
 
 Overall, Vans Life is an ideal project for anyone looking to build an app that offers a seamless user experience, while also providing valuable functionality. With its robust database, simple authentication, and intuitive interface, Vans Life is a standout example of what can be achieved with modern web technologies.
 
+Account for testing:
+Email: suhejb@test.com
+Password: suhejb
+
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
 Quick start:
