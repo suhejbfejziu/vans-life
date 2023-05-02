@@ -1,4 +1,12 @@
-# co7ed42d4805004df438d2a24
+# Vans Life Application
+
+Vans Life is a project aimed at providing a platform for users to view and rent vans. Built with a combination of HTML, CSS, JavaScript, React, Mirage, and Firebase, this app offers a seamless user experience with an intuitive interface.
+
+The app features simple authentication, allowing users to log in to access its features. Users can view available vans, filter them by various criteria, and choose to rent the one that suits their needs. They can also view the details of each van, such as its model, features, and rental price.
+
+Vans Life provides a robust database powered by Firebase, ensuring that users have access to up-to-date and accurate information about the vans. The app's integration with Mirage allows for realistic and interactive simulations of the rental process, giving users a taste of what it would be like to rent a van.
+
+Overall, Vans Life is an ideal project for anyone looking to build an app that offers a seamless user experience, while also providing valuable functionality. With its robust database, simple authentication, and intuitive interface, Vans Life is a standout example of what can be achieved with modern web technologies.
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
@@ -9,15 +17,3 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
